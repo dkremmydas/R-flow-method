@@ -2,9 +2,30 @@
 *A Text-Based Workflow Approach to R Scripting*  
 
 The **R Flow Method** is a structured way of writing R scripts that combines the flexibility of R with the clarity of workflow tools like **KNIME**.  
-Instead of dragging and dropping nodes, each script is written as a **sequence of text-based blocks**, where each block represents a task and produces one clear deliverable.  
+Instead of dragging and dropping nodes, each script is written as a **sequence of text-based blocks**. Each block represents a logical task that produces either a milestone R variable (to be used by other tasks) or one clear deliverable (output file, graph, table). Blocks can be grouped into sections.
+See the Figure below.
 
-This repository documents the method, provides examples, and offers templates to help you adopt it in your own projects.  
+<br>
+
+<table>
+
+   <tr>
+      <td align="center" valign="top">
+         <img width="600" alt="Node view drawio" src="https://github.com/user-attachments/assets/daa3ddf3-aeb4-4eb8-8d4b-fe1d74d03d7d" />
+      </td>
+      <td style="border-left: 3px solid #e0e0e0; width: 40px;"></td>
+      <td align="center" valign="top">
+         <img width="300" alt="image" src="https://github.com/user-attachments/assets/60e26133-f7d3-4397-9e28-c75d2c331cb1" />
+      </td>
+   </tr>
+</table>
+
+
+<br>
+This repository documents the method, provides examples, and offers templates to help you adopt it in your own projects.
+
+If the method principles are followed
+
 
 ---
 
