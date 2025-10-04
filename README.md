@@ -11,7 +11,7 @@ See the Figure below.
 
    <tr>
       <td align="center" valign="top">
-         <img width="600" alt="Node view drawio" src="https://github.com/user-attachments/assets/daa3ddf3-aeb4-4eb8-8d4b-fe1d74d03d7d" />
+         <img width="450" alt="Node view drawio" src="https://github.com/user-attachments/assets/4d20f81d-300a-4384-8f39-cf468557da72" />
       </td>
       <td style="border-left: 3px solid #e0e0e0; width: 40px;"></td>
       <td align="center" valign="top">
